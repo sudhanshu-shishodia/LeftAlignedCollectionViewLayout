@@ -7,7 +7,7 @@ s.description      = <<-DESC
 A UICollectionViewFlowLayout implementation to left-align the content in a UICollectionView.
 DESC
 
-s.license          = { :type => 'MIT', :file => 'LICENSE' }
+s.license          = { :type => 'MIT', :file => 'LICENSE.md' }
 s.homepage         = 'https://github.com/CheeseRoot/LeftAlignedCollectionViewLayout'
 s.author           = { 'Sudhanshu Singh' => 'sudhanshu5575@gmail.com' }
 s.source           = { :git => 'https://github.com/CheeseRoot/LeftAlignedCollectionViewLayout.git', :tag => s.version.to_s }
