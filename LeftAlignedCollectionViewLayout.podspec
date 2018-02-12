@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = 'LeftAlignedCollectionViewLayout'
-s.version          = '0.1.0'
+s.version          = '0.1.1'
 s.summary          = 'A UICollectionViewFlowLayout implementation to left-align the content in a UICollectionView'
 
 s.description      = <<-DESC
